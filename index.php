@@ -16,7 +16,7 @@
     <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 
     <!--FOLHA DE ESTILO PERSONALIZADA-->
-    <link rel="stylesheet" href="css\style.css">
+    <link rel="stylesheet" href="css/style.css">
 
     <title>MV</title>
 </head>
@@ -56,7 +56,7 @@
 <!-- END NAVBAR -->
 
 <figure>
-  <img style="opacity:30%; width: 1090px; display: block; margin-left: auto; margin-right: auto" src="gif/giphy.gif" alt="background-img">
+  <img style="opacity:20%; width: 1090px; height:max-content; display: block; margin-left: auto; margin-right: auto" src="img/code-world.jpg" alt="background-img">
 </figure>
 
 <div class="container">
