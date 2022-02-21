@@ -23,31 +23,31 @@
 <body>
 
 <!-- NAVBAR -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+<nav class="navbar navbar-expand-lg navbar-light" style="background-color: black;">
   <div class="container">
-    <a id="TitleMV" class="navbar-brand" href="#">Marcos Victor</a>
+    <a id="TitleMV" class="navbar-brand" href="#" style="color: white;">Marcos Victor</a>
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
     <div class="collapse navbar-collapse justify-content-end" id="navbarSupportedContent">
       <ul class="navbar-nav mr-auto">
         <li class="nav-item">
-          <a class="nav-link active" aria-current="page" href="#">Home</a>
+          <a class="nav-link active" aria-current="page" href="#" style="color: white;">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">About</a>
+          <a class="nav-link" href="#" style="color: white;">About</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Skills</a>
+          <a class="nav-link" href="#" style="color: white;">Skills</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Resume</a>
+          <a class="nav-link" href="#" style="color: white;">Resume</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Portifolio</a>
+          <a class="nav-link" href="#" style="color: white;">Portifolio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#">Contact</a>
+          <a class="nav-link" href="#" style="color: white;">Contact</a>
         </li>
       </ul>
     </div>
@@ -64,5 +64,3 @@
 </div>
 
 </body>
-
-
