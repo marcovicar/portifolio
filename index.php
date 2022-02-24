@@ -10,13 +10,13 @@
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Righteous&display=swap" rel="stylesheet">
 
-    <!--BOOTSTRAP-->
-    <link rel="stylesheet" href="bootstrap/css/bootstrap.css">
-    <script src="js/jquery-3.1.1.min.js" type="text/javascript"></script>
-    <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
-
     <!--FOLHA DE ESTILO PERSONALIZADA-->
     <link rel="stylesheet" href="css/style.css">
+
+    <!--BOOTSTRAP-->
+    <link rel="stylesheet" href="bootstrap/css/bootstrap.css" type="text/css">
+    <script src="js/jquery-3.1.1.min.js" type="text/javascript"></script>
+    <script src="bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 
     <title>MV</title>
 </head>
@@ -35,19 +35,19 @@
           <a class="nav-link active" aria-current="page" href="#" style="color: white;">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#" style="color: white;">About</a>
+          <a class="nav-link" href="#" style="color: white;">Sobre</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#" style="color: white;">Skills</a>
+          <a class="nav-link" href="#" style="color: white;">Habilidades</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#" style="color: white;">Resume</a>
+          <a class="nav-link" href="#" style="color: white;">Resumo</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#" style="color: white;">Portifolio</a>
+          <a class="nav-link" href="#" style="color: white;">Portfolio</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="#" style="color: white;">Contact</a>
+          <a class="nav-link" href="#" style="color: white;">Contato</a>
         </li>
       </ul>
     </div>
@@ -55,9 +55,21 @@
 </nav>
 <!-- END NAVBAR -->
 
-<figure>
-  <img style="opacity:20%; width: 1090px; height:max-content; display: block; margin-left: auto; margin-right: auto" src="img/code-world.jpg" alt="background-img">
-</figure>
+
+<section id="hero">
+  <div class="hero-container">
+    <h3>Seja bem vindo ao <strong>CoronaDen</strong></h3>
+    <h1>Ajude a combater a COVID-19</h1>
+    <h2>Este é um site para realizar denúncias anônimas e ajudar alertar moradores locais</h2>
+    <div class="btn-get-started scrollto">
+      <div class="btnPesquisar">
+        <input type="text" id="buscarDenuncia" name="buscar" placeholder="Buscar denúncia"><input type="submit" id="btnBusca" value="Buscar">
+      </div>
+
+
+    </div><!-- End sidebar search formn-->
+  </div>
+</section><!-- End Hero -->
 
 <div class="container">
 
