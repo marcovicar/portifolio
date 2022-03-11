@@ -58,16 +58,9 @@
 
 <section id="hero">
   <div class="hero-container">
-    <h3>Seja bem vindo ao <strong>CoronaDen</strong></h3>
-    <h1>Ajude a combater a COVID-19</h1>
-    <h2>Este é um site para realizar denúncias anônimas e ajudar alertar moradores locais</h2>
-    <div class="btn-get-started scrollto">
-      <div class="btnPesquisar">
-        <input type="text" id="buscarDenuncia" name="buscar" placeholder="Buscar denúncia"><input type="submit" id="btnBusca" value="Buscar">
-      </div>
-
-
-    </div><!-- End sidebar search formn-->
+    <h3>Seja bem vindo ao <strong>Portfolio</strong></h3>
+    <h1>Projetos desenvolvidos</h1>
+    <h2>Este é um site portfolio para agrupar projetos além de uma descrição sobre mim. Vulgo Marcos Victor.</h2>
   </div>
 </section><!-- End Hero -->
 
